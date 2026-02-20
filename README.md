@@ -9,10 +9,10 @@
 <a href="https://atcoder.jp/users/ayush12-prog"><img src="https://img.shields.io/badge/-AtCoder-black?style=plastic&logo=AtCoder&logoColor=white" alt="AtCoder" /></a>
 </p>
 
-* **LeetCode Guardian** (Rating: **2423**) | **550+** Problems Solved
+* **LeetCode Guardian** (Rating: **2600+**) | **550+** Problems Solved
 * **Codeforces Expert** (Rating: **1800+**)
-* **5★** on **CodeChef**
-* **AtCoder** (Rating: **1400+**)
+* **6★** on **CodeChef**
+* **AtCoder** (Rating: **1600+**)
 * **Global Rank 474** in **ICPC Winter Challenge 2025**
 
 ---
